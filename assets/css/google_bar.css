@@ -1,0 +1,11 @@
+/* hidee google bar 
+.goog-te-banner-frame.skiptranslate {display: none !important; } 
+
+
+OR 
+
+body > .skiptranslate {
+    display: none;
+}
+https://stackoverflow.com/questions/11248673/hiding-google-translate-bar
+*/
