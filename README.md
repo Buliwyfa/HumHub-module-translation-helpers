@@ -44,10 +44,12 @@ The module adds 3 helpers:
 ![Screenshoot Copy](/docs/screenshoot_01.png)
 
 
-   3. Automatic translation tries to preserve html tags, Yii Markup (“{0,plura}”,”%variable%”), and old translations (“@this is an old text that does not need to be translated@”)
+Other features:
+
+   - Automatic translation tries to preserve html tags, Yii Markup (“{0,plura}”,”%variable%”), and old translations (“@this is an old text that does not need to be translated@”)
 
 
-   4. Adds a logo to the module (yes, yes, yes... I know is really similar to Google translations... :)
+   - Adds a logo to the module (yes, yes, yes... I know is really similar to Google translations... :)
 
 ![Module Logo](/assets/module_image.png)
 
