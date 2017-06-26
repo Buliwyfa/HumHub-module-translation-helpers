@@ -60,4 +60,5 @@ Know issues with the helpers modifications:
 
  - Needs testing
 
- - *Free translation Google based on loophole... (Hope it last couple more years)
+ - *Free translation Google based on loophole... (Hope it last few more years)
+ THANKS To Adrián Barrio Andrés and his https://github.com/statickidz/php-google-translate-free
