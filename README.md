@@ -28,7 +28,7 @@ Description:
 
 The module adds 3 helpers:
 
-1. Color background of modules and files based on % translation (0% = red, 99% = green and 100% = NO colo)
+1. Color background of modules and files based on % translation (0% = red, 99% = green and 100% = NO color)
 
    1. This helps to find not translated files and modules
    
