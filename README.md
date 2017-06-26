@@ -5,7 +5,7 @@ Base module forked form https://github.com/humhub/humhub-modules-translation.git
 
 Know issues with the 'oficial' module:
 -------------------------------------
- - When changing selection of Module, Languages, and Files, it comes to a pint where files are not properly updated or are not updated at all.
+ - When changing selection of Module, Languages, and Files, it comes to a point where files are not properly updated or are not updated at all.
  - On windows server you need to add write permission (IUSR) to messages folders on some modules so changes can be save.
  - **This module is under development yet - do not use on production systems!**
 
