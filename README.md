@@ -3,13 +3,11 @@ HumHub - Translation Module
 
 Base module forked form https://github.com/humhub/humhub-modules-translation.git 
 
-Know issues with the module:
----------------------------
+Know issues with the 'oficial' module:
+-------------------------------------
  - When changing selection of Module, Languages, and Files, it comes to a pint where files are not properly updated or are not updated at all.
  - On windows server you need to add write permission (IS) to messages folders on some modules so changes can be save.
-
-
-**This module is under development yet - do not use on production systems!**
+ - **This module is under development yet - do not use on production systems!**
 
 
 Installation:
@@ -62,3 +60,5 @@ Know issues with the helpers modifications:
 
  - *Free translation Google based on loophole... (Hope it last few more years)
  THANKS To Adrián Barrio Andrés and his https://github.com/statickidz/php-google-translate-free
+
+
